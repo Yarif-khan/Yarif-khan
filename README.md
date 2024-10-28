@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm [Yarif Khan]! 👋
 Welcome to my GitHub profile! I'm a passionate developer, always excited about learning new technologies and building projects that make an impact.
 
 <!--![](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)-->
