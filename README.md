@@ -1,7 +1,7 @@
 # Hello, I'm [Your Name]! 👋
 Welcome to my GitHub profile! I'm a passionate developer, always excited about learning new technologies and building projects that make an impact.
 
-![](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
+![](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif) ![Leetcode Stats](https://leetcard.jacoblin.cool/Yarif_Khan)
 
 ## 🌱 About Me
 - 🌐 I’m enthusiastic about web development, exploring both frontend and backend technologies.
@@ -41,4 +41,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Leetcode Stats](https://leetcard.jacoblin.cool/Yarif_Khan)
