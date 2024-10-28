@@ -1,7 +1,7 @@
 # Hello, I'm [Your Name]! 👋
 Welcome to my GitHub profile! I'm a passionate developer, always excited about learning new technologies and building projects that make an impact.
 
-![](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif) ![Leetcode Stats](https://leetcard.jacoblin.cool/Yarif_Khan)
+<!--![](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)-->
 
 ## 🌱 About Me
 - 🌐 I’m enthusiastic about web development, exploring both frontend and backend technologies.
@@ -15,8 +15,10 @@ Welcome to my GitHub profile! I'm a passionate developer, always excited about l
 - **Tools:** Git, GitHub, VS Code, Figma
 - **Currently Exploring:** TypeScript, Next.js, and cloud technologies
 
-## 📈 My GitHub Stats
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yarif-khan&show_icons=true&theme=tokyonight)-->
+![Leetcode Stats](https://leetcard.jacoblin.cool/Yarif_Khan)
+
+<!--## 📈 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yarif-khan&show_icons=true&theme=tokyonight)-->
 
 ## 📫 Let’s Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/yarif-uddin-khan)
