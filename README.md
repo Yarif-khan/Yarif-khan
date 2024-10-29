@@ -1,6 +1,14 @@
 # 👋 Hi, I'm Yarif Uddin Khan
 
-I'm a biotechnology student, open-source enthusiast, and aspiring software developer with a passion for merging scientific knowledge with digital skills. I enjoy exploring diverse fields like bioinformatics, data science, and web development. Currently, I’m building my skills in full-stack development with a focus on Python, JavaScript, and front-end technologies.
+I'm an aspiring software developer and an undergrad biotechnology student with a passion for merging scientific knowledge with digital skills. I enjoy exploring diverse fields like bioinformatics, data science, and web development. Currently, I’m building my skills in full-stack development with a focus on Python, JavaScript, and front-end technologies.
+
+---
+
+## 🛠 Skills & Technologies
+- **Frontend:** HTML, CSS, JavaScript, React, and responsive design
+- **Backend:** Node.js, Express, RESTful APIs
+- **Tools:** Git, GitHub, VS Code, Figma
+- **Currently Exploring:** TypeScript, Next.js, and cloud technologies
 
 ---
 
