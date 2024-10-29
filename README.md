@@ -14,11 +14,11 @@ I'm an aspiring software developer and an undergrad biotechnology student with a
 
 ## 🚀 Projects & Contributions
 
-### 🌦 Weather Application
-- A web app that displays current weather conditions for any city. Built using Python and web APIs.
-
 ### 📝 Microblogging Application
 - A microblogging platform created with Flask, offering basic blogging functionalities. Focused on backend logic and authentication.
+
+### 🌦 [Weather Application](yarif-khan.github.io/Weather-App/)
+- A web app that displays current weather conditions for any city. Built using Python and web APIs.
 
 ### 🕸 Mini Projects in Web Development
 - Experimenting with HTML, CSS, and JavaScript to enhance front-end skills. Examples include responsive layouts and interactive features.
